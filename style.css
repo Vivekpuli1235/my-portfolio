@@ -1,0 +1,161 @@
+.wellcome{
+    text-align: center;
+    padding: 300px;
+    
+}
+.body{
+    background-color:#22333b;
+    color: white;
+}
+.navroo{
+    background-color: white;
+    opacity: 0.5;
+}
+.navroo:hover{
+    opacity: 1;
+}
+.keyboard{
+    transition: 1s ease-in-out 0.5s;
+}
+.keyboard:hover{
+   transform: scale(1.02);
+}
+#imgint:hover{
+    transform: scale(1.02);
+}
+#video1{
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);      
+    transition: 2s ease-in-out 0.5s;
+}
+#video1:hover{
+    transform: scale(1.02);
+}
+#about{
+    align-items: center;
+    text-align: center;
+    /* background-image: url(https://e0.pxfuel.com/wallpapers/717/985/desktop-wallpaper-white-technology-bright-white.jpg);
+    background-size: 1000px; */
+    background-color: #22333b;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);      
+    padding: 20px;
+    background-size: cover;
+    font-size: large;
+    transition: 1s;
+}
+#about:hover{
+    background-color: #424c55;
+}
+#aboutussss{
+    text-align: center;
+}
+#Education{
+    text-align: center;
+    font-size: 20px;
+    margin: 30px;
+    
+}
+#Contact{
+    text-align: center;
+    background-color: #5e503f;
+    padding: 10px;
+    transition: 2s ease-in-out 0.5s;
+}
+#Contact:hover{
+    background-image: url(https://t3.ftcdn.net/jpg/02/80/73/24/360_F_280732451_yYKgNqWCLcWPEabQeZp8EJ1ccHwkZHPN.jpg);
+    background-size: cover;
+}
+#intro{
+    text-align: center;
+    padding-top: 20vh;
+    margin-bottom: 50vh;
+}
+.forms{
+    display: flex;
+    align-items: center;
+}
+.welcomenote{
+    font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: bold;
+}
+.key {
+    font-size: 50px;
+    display: inline-block;
+    letter-spacing: 20;
+    transition: transform 0.2s;
+  }
+.img{
+    border-radius: 50%;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);      
+    transition: 1s ease-in-out 0.5s;
+}
+.img:hover{
+   background-color: black;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0), 0 6px 20px 0 rgba(0, 0, 0);      
+   transform: scale(1.01);
+}
+.puli{
+    size: 100px;
+}
+.aboutp{
+    backdrop-filter: blur;
+}
+.aboutp a{
+    opacity: 0.5;
+    transition: 1s;
+}
+.aboutp a:hover{
+
+    opacity: 1;
+}
+#projects{
+    background-color: #1b2a41;
+    padding: 2px;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(163, 6, 211, 0.2), 0 6px 20px 0 rgba(164, 13, 195, 0.19);      
+}
+.pulogo{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);      
+}
+.btech{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+#Emailwala{
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(225, 225, 225);
+    border: 10px;
+}
+#feedbackwala{
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(225, 225, 225);
+    border: 10px;
+}
+.navroo:hover{
+    color: green;
+    background-color: black;
+}
+button:hover{
+    background-color: black;
+}
+h2:hover{
+    text-decoration: underline;
+    text-shadow: 1px 1px 5px #2600ff;
+}
+#carouselExampleIndicators{
+    box-shadow: 0 8px 12px 0 rgba(108, 36, 128, 0.2), 0 8px 22px 0 rgba(106, 35, 125, 0.19);      
+    transition: 1s ease-in-out 2s;
+
+}
+#carouselExampleIndicators:hover{
+    box-shadow: 0 4px 8px 0 rgb(0,0,0),0 6px 20px 0 rgb(0, 0, 0);
+
+  
+}
+#projects{
+    display: grid;
+    margin-left: 50px;
+}
